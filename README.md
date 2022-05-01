@@ -22,6 +22,14 @@ A very simple, easy to set up self contained crewmate follower.
 * The follower can be scaled.
 * Increasing the "Follower Target" weight in the "Follower Constraint" will make it move faster.
 
+## Download
+
+You can get the latest version of the Player Tracker in [Releases](https://github.com/hfcRed/Among-Us-Follower/releases/latest).
+
 ## CREDITS
 
-[Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+[Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+
+## License
+
+Player Tracker falls under the [MIT License](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE) and is free to use and redistribute.
