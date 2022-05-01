@@ -28,7 +28,7 @@ You can get the latest version of the Player Tracker in [Releases](https://githu
 
 ## CREDITS
 
-[Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+[Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
 ## License
 
