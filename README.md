@@ -8,7 +8,7 @@ A very simple, easy to set up self contained crewmate follower.
 
 ## Showcase, installation and customization
 
-[Video guide](placeholer)
+[Video guide](https://twitter.com/VRCRedd/status/1520901076484079618?s=20&t=KPaBponSx0vKw9zatYdKCQ)
 
 **Installation**
 
