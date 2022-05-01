@@ -4,6 +4,15 @@
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/hfcRed/Among-Us-Follower/total?label=Downloads)](https://github.com/hfcRed/Among-Us-Follower/releases/latest)
 
+A very simple, easy to set up self contained crewmate follower.
+
+## Showcase, installation and customization
+
+[Twitter Video](placeholer)
+
+* Drop the "Among Us Follower" prefab onto your Avatar in the hierarchy.
+* Unpack the Prefab by right clicking it.
+* Drag "Follower Target" out of the follower and drop it onto your Avatar.
 
 ## CREDITS
 
