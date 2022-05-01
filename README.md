@@ -8,11 +8,19 @@ A very simple, easy to set up self contained crewmate follower.
 
 ## Showcase, installation and customization
 
-[Twitter Video](placeholer)
+[Video guide](placeholer)
+
+**Installation**
 
 * Drop the "Among Us Follower" prefab onto your Avatar in the hierarchy.
 * Unpack the Prefab by right clicking it.
-* Drag "Follower Target" out of the follower and drop it onto your Avatar.
+* Drag "Follower Target" out of the Follower and drop it onto your Avatar.
+
+**Customization**
+
+* Textures for different colors can be found in the textures folder.
+* The follower can be scaled.
+* Increasing the "Follower Target" weight in the "Follower Constraint" will make it move faster.
 
 ## CREDITS
 
