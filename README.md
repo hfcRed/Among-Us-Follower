@@ -5,6 +5,7 @@
 [![Generic badge](https://img.shields.io/github/downloads/hfcRed/Among-Us-Follower/total?label=Downloads)](https://github.com/hfcRed/Among-Us-Follower/releases/latest)
 
 A very simple, easy to set up self contained crewmate follower.
+**IMPORTANT: Testing in Unity can be inconsistent, please test ingame if any problems arise.**
 
 ## Showcase, installation and customization
 
