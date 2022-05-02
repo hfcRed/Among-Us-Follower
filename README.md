@@ -7,9 +7,9 @@ A very simple, one step set up, self contained crewmate follower.
 
 **IMPORTANT: Testing in Unity can be inconsistent, please test ingame if any problems arise.**
 
-## Showcase, installation and customization
+## Installation and customization
 
-[Video guide](https://twitter.com/VRCRedd/status/1520901076484079618?s=20&t=KPaBponSx0vKw9zatYdKCQ)
+[Video guide](https://youtu.be/dRy1cG9nCTo)
 
 **Installation**
 
