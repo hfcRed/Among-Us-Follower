@@ -31,9 +31,13 @@ You can get the latest version of the Follower in [Releases](https://github.com/
 
 ## CREDITS
 
-Model, textures and animations:
+Models, textures and animations:
 
 [Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+
+Model and texture optimization:
+
+[Flower Of Good](https://twitter.com/FlowerGoodYes?t=TA82-6yBUFmA8vuhOQgn6A&s=09)
 
 ## License
 
