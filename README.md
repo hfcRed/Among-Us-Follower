@@ -18,8 +18,12 @@ A very simple, one step set up, self contained crewmate follower.
 **Customization**
 
 * Textures for different colors can be found in the textures folder.
-* The follower can be scaled.
-* Increasing the "Follower Target" weight in the "Follower Constraint" will make it move faster.
+* The Armature of the follower can be scaled.
+* Increasing the "Follow Target" weight (base weight 0.008) in the "Follower Constraint" will make it move faster.
+* Moving "Follow Target" will move the crewmates rest position that it will follow.
+* Moving "Look At Target" inside of the follow target will change where the crewmate will be looking in its rest position.
+* Changing the value of the last keyframe in the "SFX On" animation determines how loud the walking sound will be.
+* The Armature, Mesh and Idle and Walk/Run Animations can be changed out for a different model, a more detailed explenation can be found in the video guide.
 
 ## Download
 
