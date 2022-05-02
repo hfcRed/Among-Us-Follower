@@ -1,4 +1,4 @@
-# Among-Us-Follower
+# Among Us Follower
 [![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-informational.svg)](https://vrchat.com/home/download)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
@@ -32,4 +32,4 @@ You can get the latest version of the Follower in [Releases](https://github.com/
 
 ## License
 
-Player Tracker falls under the [MIT License](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE) and is free to use and redistribute.
+Among Us Follower falls under the [MIT License](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE) and is free to use and redistribute.
