@@ -1,33 +1,18 @@
 fileFormatVersion: 2
-guid: 870a86b349e467d45a9f517d0ddee79f
+guid: 78c5781c014125047b87bcd81139ac7b
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
   - first:
-      74: 7179017370845781911
-    second: Armature|Armature|Armature|Ref|Armature|Ref
+      74: 3573625740857066038
+    second: Armature|Armature|Armature|Armature|Armature|Ref|Armature|Ref
   - first:
-      74: -8015247887383579603
-    second: Armature|Armature|Armature|Run|Armature|Run
+      74: 4504773099888091050
+    second: Armature|Armature|Armature|Armature|Armature|Run|Armature|Run
   - first:
-      74: -7786622535804240210
-    second: Armature|Armature|Ref|Ref
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Astronaut
-    second: {fileID: 2100000, guid: a4be0624f8f53a8408c2fd44e8d94292, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Astronaut_backpack
-    second: {fileID: 2100000, guid: ba704fad56c8d9942a38ef9f96af1741, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Outline
-    second: {fileID: 2100000, guid: b66023e14d852a2409ca3f49629daf7c, type: 2}
+      74: 1687128884784772398
+    second: Armature|Armature|Armature|Armature|Ref|Ref
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -114,7 +99,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
