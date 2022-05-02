@@ -24,7 +24,7 @@ A very simple, easy to set up self contained crewmate follower.
 
 ## Download
 
-You can get the latest version of the Player Tracker in [Releases](https://github.com/hfcRed/Among-Us-Follower/releases/latest).
+You can get the latest version of the Follower in [Releases](https://github.com/hfcRed/Among-Us-Follower/releases/latest).
 
 ## CREDITS
 
