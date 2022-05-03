@@ -4,6 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
 
 A very simple, one step set up, self contained crewmate follower.
+
 Model and animations can be changed, you're free to upload your own version both publicly and commercially.
 
 **IMPORTANT: Testing in Unity can be inconsistent, please test ingame if any problems arise.**
