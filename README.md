@@ -41,6 +41,11 @@ Model and texture optimization:
 
 [Flower Of Good](https://twitter.com/FlowerGoodYes?t=TA82-6yBUFmA8vuhOQgn6A&s=09)
 
+## Support
+
+If you encounter any problems or need help with the package dont hesitate to shoot me a message on Discord:
+Red#1832
+
 ## License
 
 Among Us Follower falls under the [MIT License](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE) and is free to use and redistribute.
