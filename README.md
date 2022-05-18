@@ -8,7 +8,7 @@ A very simple, one step set up, self contained crewmate follower.
 
 Models and animations can be changed, you're free to upload your own version of this package both publicly and commercially.
 
-**IMPORTANT: Testing in Unity can be inconsistent, please test ingame if any problems arise.**
+[Showcase](https://youtu.be/HmkJ1Yol2DA)
 
 ## Installation and customization
 
