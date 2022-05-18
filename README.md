@@ -35,12 +35,14 @@ You can get the latest version of the Follower in [Releases](https://github.com/
 ## CREDITS
 
 Models, textures and animations:
-
 [Crewmate [Among Us]](https://skfb.ly/o7tCN) by [ThatAverageJoe](https://sketchfab.com/joewood0203) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
-Model and texture optimization:
+Mesh and texture optimization:
+[Cam](https://twitter.com/CamsAvis?s=20&t=JH4xm9tRWyj32QJ64U-m0A)
 
+Material optimization and atlasing:
 [Flower Of Good](https://twitter.com/FlowerGoodYes?t=TA82-6yBUFmA8vuhOQgn6A&s=09)
+
 
 ## Support
 
