@@ -8,7 +8,7 @@ A very simple, one step set up, self contained crewmate follower.
 
 Models and animations can be changed, you're free to upload your own version of this package both publicly and commercially.
 
-[Showcase](https://youtu.be/HmkJ1Yol2DA)
+[Showcase](https://youtu.be/Ym7jevHyH8w)
 
 ## Installation and customization
 
