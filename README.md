@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/hfcRed/Among-Us-Follower/total?label=Downloads)](https://github.com/hfcRed/Player-Tracker/releases/latest)
-[![Twitter Follow](https://img.shields.io/twitter/follow/VRCRedd.svg?style=social)](https://twitter.com/VRCRedd)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VRCRedd.svg?style=social)](https://twitter.com/hfcRedddd)
 
 A very simple, one step set up, self contained crewmate follower.
 
