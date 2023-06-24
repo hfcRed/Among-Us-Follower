@@ -11,7 +11,7 @@ Models and animations can be changed, you're free to upload your own version of 
 
 [Showcase](https://youtu.be/HmkJ1Yol2DA)
 
-[![Generic badge](https://img.shields.io/badge/-Download_Unitypackage_​_​_​-success?style=for-the-badge)](https://github.com/hfcRed/Among-Us-Follower/releases/latest/download/Among_Us-Follower.unitypackage)
+[![Generic badge](https://img.shields.io/badge/-Download_Unitypackage_​_​_​-success?style=for-the-badge)](https://github.com/hfcRed/Among-Us-Follower/releases/latest/download/Among_Us_Follower.unitypackage)
 
 ## Installation and customization
 
