@@ -1,26 +1,25 @@
 # Among Us Follower
+
 [![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
-[![Generic badge](https://img.shields.io/github/downloads/hfcRed/Among-Us-Follower/total?label=Downloads)](https://github.com/hfcRed/Player-Tracker/releases/latest)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hfcRedddd.svg?style=social)](https://twitter.com/hfcRedddd)
+[![Generic badge](https://img.shields.io/github/downloads/hfcRed/Player-Tracker/total?label=Downloads)](https://github.com/hfcRed/Player-Tracker/releases/latest)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VRCRedd.svg?style=social)](https://twitter.com/VRCRedd)
 
 A very simple, one step set up, self contained crewmate follower.
 
 Models and animations can be changed, you're free to upload your own version of this package both publicly and commercially.
 
-[Showcase](https://youtu.be/Ym7jevHyH8w)
+[Showcase](https://youtu.be/HmkJ1Yol2DA)
 
 ## Installation and customization
 
-[Video guide simple installation](https://youtu.be/dRy1cG9nCTo)
+[Video guide](https://youtu.be/dRy1cG9nCTo)
 
-[Video guide grab installation](https://youtu.be/s4w2CpK_9tI)
-
-**Installation**
+### Installation
 
 * Drop the "Among Us Follower" prefab onto your Avatar in the hierarchy.
 
-**Customization**
+### Customization
 
 * Textures for different colors can be found in the textures folder.
 * The Armature of the follower can be scaled.
@@ -51,8 +50,7 @@ Material optimization and atlasing:
 
 ## Support
 
-If you encounter any problems or need help with the package dont hesitate to shoot me a message on Discord:
-Red#1832
+If you encounter any problems or need help with the package dont hesitate to shoot me a message on Discord: hfcRed
 
 ## License
 

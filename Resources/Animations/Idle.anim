@@ -36,7 +36,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature
+    path: Run/Container/Armature
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -61,7 +61,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -86,7 +86,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -111,7 +111,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -136,7 +136,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -161,7 +161,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -186,7 +186,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -211,7 +211,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -236,7 +236,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -245,31 +245,6 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0, y: 0, z: 0}
-        inSlope: {x: -0, y: -0, z: -0}
-        outSlope: {x: -0, y: -0, z: -0}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 0.033333335
-        value: {x: -0, y: 0, z: 0}
-        inSlope: {x: -0, y: -0, z: -0}
-        outSlope: {x: -0, y: -0, z: -0}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Run/Armature
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
         value: {x: -9.482953e-18, y: 0.0006626469, z: 0.012796798}
         inSlope: {x: -0, y: -0, z: -0}
         outSlope: {x: -0, y: -0, z: -0}
@@ -289,7 +264,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -314,7 +289,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -339,7 +314,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -364,7 +339,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -389,7 +364,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -414,7 +389,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -439,7 +414,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -464,7 +439,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -476,126 +451,119 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1884525025
+      path: 1684593424
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 382797938
+      path: 3699372466
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2540256838
+      path: 2566023454
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 494339967
+      path: 890306480
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2932397863
+      path: 2796754957
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 494711406
+      path: 1684593424
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1884525025
+      path: 38954498
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 4250337226
+      path: 3699372466
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 382797938
+      path: 221950763
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2278177417
+      path: 3962056621
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3220847311
+      path: 2566023454
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2540256838
+      path: 890306480
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 494339967
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2932397863
+      path: 2896743189
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 494711406
+      path: 2796754957
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 4250337226
+      path: 38954498
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2278177417
+      path: 221950763
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3220847311
+      path: 3962056621
       attribute: 2
       script: {fileID: 0}
       typeID: 4
@@ -628,90 +596,6 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: Run/Armature
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: Run/Armature
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0
-        inSlope: -0
-        outSlope: -0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: Run/Armature
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
         value: -0.7069847
         inSlope: 0
         outSlope: 0
@@ -732,7 +616,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature
+    path: Run/Container/Armature
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -760,7 +644,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature
+    path: Run/Container/Armature
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -788,7 +672,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature
+    path: Run/Container/Armature
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -816,7 +700,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature
+    path: Run/Container/Armature
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -844,7 +728,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -872,7 +756,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -900,7 +784,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -928,7 +812,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -956,7 +840,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -984,7 +868,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1012,7 +896,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1040,7 +924,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1068,7 +952,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1096,7 +980,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1124,7 +1008,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1152,7 +1036,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1180,7 +1064,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1208,7 +1092,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1236,7 +1120,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1264,7 +1148,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1292,7 +1176,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1320,7 +1204,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1348,7 +1232,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1376,7 +1260,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1404,7 +1288,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1432,7 +1316,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1460,7 +1344,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1488,7 +1372,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1516,7 +1400,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1544,7 +1428,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1572,7 +1456,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1600,7 +1484,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1628,7 +1512,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1656,7 +1540,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1684,7 +1568,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1712,7 +1596,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1740,7 +1624,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1768,7 +1652,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1796,7 +1680,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg/Right knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1824,7 +1708,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1852,7 +1736,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1880,7 +1764,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1908,7 +1792,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1936,7 +1820,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1964,7 +1848,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1992,7 +1876,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2020,7 +1904,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2048,7 +1932,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2076,7 +1960,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2104,7 +1988,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2132,7 +2016,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2160,7 +2044,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2188,7 +2072,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2216,7 +2100,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2244,7 +2128,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2272,7 +2156,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2300,7 +2184,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2328,7 +2212,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2356,7 +2240,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2384,7 +2268,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -2393,18 +2277,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -89.98021
-        inSlope: 0
-        outSlope: 0
+        value: 0.0000013728184
+        inSlope: -0.00012355363
+        outSlope: -0.00012355363
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: -89.98021
-        inSlope: 0
-        outSlope: 0
+        value: 0.0000013728184
+        inSlope: -0.00012355363
+        outSlope: -0.00012355363
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2412,8 +2296,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: localEulerAngles.x
-    path: Run/Armature
+    attribute: localEulerAngles.z
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2421,18 +2305,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
+        value: -0.000013729185
+        inSlope: -0.00013766432
+        outSlope: -0.00013766432
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: 0
-        inSlope: 0
-        outSlope: 0
+        value: -0.000013729185
+        inSlope: -0.00013766432
+        outSlope: -0.00013766432
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2441,7 +2325,35 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature
+    path: Run/Container/Armature/Hips/Spine/Chest
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -5.738754
+        inSlope: -0.00004291534
+        outSlope: -0.00004291534
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: -5.738754
+        inSlope: -0.00004291534
+        outSlope: -0.00004291534
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Run/Container/Armature/Hips/Spine/Chest
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2469,7 +2381,119 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: Run/Armature
+    path: Run/Container/Armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Run/Container/Armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -89.98021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: -89.98021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Run/Container/Armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Run/Container/Armature/Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2497,119 +2521,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: Run/Armature/Hips
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.y
-    path: Run/Armature/Hips
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.z
-    path: Run/Armature/Hips
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.45997047
-        inSlope: -0.00051498413
-        outSlope: -0.00051498413
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -0.45997047
-        inSlope: -0.00051498413
-        outSlope: -0.00051498413
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Left leg
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -179.0349
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -179.0349
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2637,7 +2549,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Left leg
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2645,46 +2557,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 4.7900667
-        inSlope: 0.00025749207
-        outSlope: 0.00025749207
+        value: -179.0349
+        inSlope: 0
+        outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: 4.7900667
-        inSlope: 0.00025749207
-        outSlope: 0.00025749207
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Left leg/Left knee
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.46356514
-        inSlope: -0.00028163192
-        outSlope: -0.00028163192
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0.46356514
-        inSlope: -0.00028163192
-        outSlope: -0.00028163192
+        value: -179.0349
+        inSlope: 0
+        outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2693,7 +2577,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2701,18 +2585,46 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.79450625
-        inSlope: -0.00032722947
-        outSlope: -0.00032722947
+        value: -0.45997053
+        inSlope: -0.0005096197
+        outSlope: -0.0018829106
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: -0.79450625
-        inSlope: -0.00032722947
-        outSlope: -0.00032722947
+        value: -0.45997053
+        inSlope: -0.0005096197
+        outSlope: -0.0005096197
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Run/Container/Armature/Hips/Left leg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.7945063
+        inSlope: -0.00032186505
+        outSlope: -0.00032186505
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: -0.7945063
+        inSlope: -0.00032186505
+        outSlope: -0.00032186505
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2721,7 +2633,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Left leg/Left knee
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2729,46 +2641,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.45997047
-        inSlope: -0.00051498413
-        outSlope: -0.00051498413
+        value: 0.46356517
+        inSlope: -0.00028431413
+        outSlope: -0.00028431413
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: -0.45997047
-        inSlope: -0.00051498413
-        outSlope: -0.00051498413
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Right leg
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 179.0349
-        inSlope: 0.0013732909
-        outSlope: 0.0013732909
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 179.0349
-        inSlope: 0.0013732909
-        outSlope: 0.0013732909
+        value: 0.46356517
+        inSlope: -0.00028431413
+        outSlope: -0.00028431413
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2777,7 +2661,35 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Left leg/Left knee
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.7900677
+        inSlope: 0.00017166136
+        outSlope: 0.00017166136
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 4.7900677
+        inSlope: 0.00017166136
+        outSlope: 0.00017166136
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Run/Container/Armature/Hips/Left leg/Left knee
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2805,7 +2717,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Right leg
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2813,46 +2725,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 4.7900667
-        inSlope: 0.00025749207
-        outSlope: 0.00025749207
+        value: 179.0349
+        inSlope: 0.0013732909
+        outSlope: 0.0013732909
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: 4.7900667
-        inSlope: 0.00025749207
-        outSlope: 0.00025749207
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Right leg/Right knee
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.46356514
-        inSlope: 0.00028163192
-        outSlope: 0.00028163192
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -0.46356514
-        inSlope: 0.00028163192
-        outSlope: 0.00028163192
+        value: 179.0349
+        inSlope: 0.0013732909
+        outSlope: 0.0013732909
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2861,7 +2745,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Right leg/Right knee
+    path: Run/Container/Armature/Hips/Right leg
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2869,46 +2753,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.79450625
-        inSlope: 0.00032722947
-        outSlope: 0.00032722947
+        value: -0.45997053
+        inSlope: -0.0005096197
+        outSlope: -0.0018829106
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: 0.79450625
-        inSlope: 0.00032722947
-        outSlope: 0.00032722947
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Right leg/Right knee
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -2.5196362
-        inSlope: -0.00017166136
-        outSlope: -0.00017166136
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -2.5196362
-        inSlope: -0.00017166136
-        outSlope: -0.00017166136
+        value: -0.45997053
+        inSlope: -0.0005096197
+        outSlope: -0.0005096197
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -2917,7 +2773,119 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Right leg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7945063
+        inSlope: 0.00032186505
+        outSlope: 0.00032186505
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 0.7945063
+        inSlope: 0.00032186505
+        outSlope: 0.00032186505
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Run/Container/Armature/Hips/Right leg/Right knee
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.46356517
+        inSlope: 0.00028431413
+        outSlope: 0.00028431413
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: -0.46356517
+        inSlope: 0.00028431413
+        outSlope: 0.00028431413
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Run/Container/Armature/Hips/Right leg/Right knee
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.7900677
+        inSlope: 0.00017166136
+        outSlope: 0.00017166136
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 4.7900677
+        inSlope: 0.00017166136
+        outSlope: 0.00017166136
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Run/Container/Armature/Hips/Right leg/Right knee
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2945,7 +2913,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Spine
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2953,46 +2921,18 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0
-        inSlope: 0
-        outSlope: 0
+        value: -2.5196364
+        inSlope: -0.00015020369
+        outSlope: -0.00015020369
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.033333335
-        value: -0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Spine
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -5.7387533
-        inSlope: -0.00008583068
-        outSlope: -0.00008583068
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -5.7387533
-        inSlope: -0.00008583068
-        outSlope: -0.00008583068
+        value: -2.5196364
+        inSlope: -0.00015020369
+        outSlope: -0.00015020369
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -3001,63 +2941,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Spine/Chest
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.0000137291845
-        inSlope: -0.0001376644
-        outSlope: -0.0001376644
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: -0.0000137291845
-        inSlope: -0.0001376644
-        outSlope: -0.0001376644
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Spine/Chest
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.0000013728184
-        inSlope: -0.00012355363
-        outSlope: -0.00012355363
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.033333335
-        value: 0.0000013728184
-        inSlope: -0.00012355363
-        outSlope: -0.00012355363
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Spine/Chest
+    path: Run/Container/Armature/Hips/Spine
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3085,7 +2969,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3113,7 +2997,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3141,7 +3025,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: Run/Armature/Hips/Spine/Chest/Head
+    path: Run/Container/Armature/Hips/Spine/Chest/Head
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
