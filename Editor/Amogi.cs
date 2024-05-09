@@ -292,6 +292,7 @@ namespace DreadScripts.Amogi
                 AssetDatabase.StopAssetEditing();
             }
 
+            AssetDatabase.Refresh();
 
             foreach (var (path, color, renderer) in pathColorToMesh)
             {
