@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Among Us Follower
 
 [![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1+-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
@@ -12,6 +14,11 @@ Models and animations can be changed, you're free to upload your own version of 
 [Showcase](https://youtu.be/HmkJ1Yol2DA)
 
 [![Generic badge](https://img.shields.io/badge/-Download_Unitypackage_​_​_​-success?style=for-the-badge)](https://github.com/hfcRed/Among-Us-Follower/releases/download/2.1.1/Among.Us.Follower.2.1.1.unitypackage)
+
+</div>
+
+---
+
 ## Installation and customization
 
 [Video guide](https://youtu.be/dRy1cG9nCTo)
